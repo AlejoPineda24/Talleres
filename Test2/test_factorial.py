@@ -11,3 +11,5 @@ class TestFactorial(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main()
+print(test_factorial_5)
+print(test_factorial_3)
