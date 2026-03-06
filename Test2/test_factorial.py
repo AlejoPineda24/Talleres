@@ -11,4 +11,3 @@ class TestFactorial(unittest.TestCase):
 
 if __name__ == '__main__':
 	unittest.main()
-print(TestFactorial)
